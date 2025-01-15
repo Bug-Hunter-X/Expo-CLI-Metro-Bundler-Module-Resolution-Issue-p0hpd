@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the Metro bundler failed to correctly resolve modules from a specific library despite the library being correctly installed and listed in the package.json file.  The error message was vague, only indicating a module not found error without specifying the exact module or path.
